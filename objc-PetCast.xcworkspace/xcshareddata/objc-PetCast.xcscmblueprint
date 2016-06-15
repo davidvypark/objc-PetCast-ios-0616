@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C13E79A389BE16D842290CE2625AC5F91801069B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C13E79A389BE16D842290CE2625AC5F91801069B" : 0,
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DBBB1267-C634-4A6B-9701-AAAC5BF1F9FD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C13E79A389BE16D842290CE2625AC5F91801069B" : "objc-PetCast-ios-0616\/",
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "objc-PetCast",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "objc-PetCast.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/objc-dictionary-ice-cream-001",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/objc-PetCast-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C13E79A389BE16D842290CE2625AC5F91801069B"
+    }
+  ]
+}
